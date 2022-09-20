@@ -8,13 +8,13 @@ let handler = async (m, { conn, usedPrefix }) => {
       extendedTextMessage: {
       text: `
 ╭─「 Donasi • Dana 」
-│ • Triii [62895604670507]
-│ • Gopay  [62895604670507]
-│ • Dana  [62895604670507]
+│ • Telkom [6281386945391]
+│ • Gopay  [-]
+│ • Dana  [-]
 │ • Qris  [Chat OWNER]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/62895604670507
+│ > Ingin donasi? Wa.me/6281386945391
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
