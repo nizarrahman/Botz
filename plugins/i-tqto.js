@@ -14,14 +14,12 @@ let handler = async (m, { conn, usedPrefix }) => {
       extendedTextMessage: {
       text: `
  *BIG THANKS*
-Nurutomo: 
-https://github.com/Nurutomo
-Istikmal: 
-https://github.com/BochilGaming
-Zens: 
-https://github.com/RaaaGH
-Aguz Familia:
-https://github.com/FokusDotId
+Allah Swt
+Nabi Muhammad Saw
+Ortu Gw
+My Team
+Temen" Gw
+Pengguna Bot Nizar(NIZARBOTZ
 
 \`\`\`${conn.user.name}\`\`\`
 `,
